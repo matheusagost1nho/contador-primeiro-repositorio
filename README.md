@@ -1,2 +1,2 @@
-# contador-primeiro-repositorio
+# Contador
 Criação de um contador utilizando HTML, CSS e JavaScript.
